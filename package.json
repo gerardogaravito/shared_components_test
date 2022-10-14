@@ -1,0 +1,11 @@
+{
+  "name": "shared_components_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gerardo Garavito <garavitogerardo@gmail.com>",
+  "license": "ISC"
+}
